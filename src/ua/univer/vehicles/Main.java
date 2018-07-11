@@ -1,5 +1,5 @@
 package ua.univer.vehicles;
-/// тестинг gitHub
+/// тестинг gitHub235
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.Scanner;
@@ -9,7 +9,7 @@ import Helper.FactoryVehicles;
 import Model.CCar;
 import Model.CVehicle;
 
-
+// тест 555
 class VehicleSortbySpeed implements Comparator<CVehicle> {
 
 	public int compare(CVehicle v1, CVehicle v2) {
